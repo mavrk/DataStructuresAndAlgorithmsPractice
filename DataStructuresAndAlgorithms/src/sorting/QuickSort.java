@@ -32,6 +32,8 @@ public class QuickSort {
 
     void swap(int arr[], int i, int j) {
         //swap i & j elem of arr
+        if(arr[i] == arr[j])
+            return;
         arr[i] = arr[i] ^ arr[j];
         arr[j] = arr[i] ^ arr[j];
         arr[i] = arr[i] ^ arr[j];
@@ -47,7 +49,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int arr[] = {10, 7, 8, 9, 1, 5};
+        int arr[] = {10, 7, 8, 9, 1, 5, 12, 6, 4};
         QuickSort quickSort = new QuickSort();
         quickSort.sort(arr, 0, arr.length - 1);
         //print
