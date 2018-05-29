@@ -7,7 +7,6 @@ package problems;
 
 import java.util.Random;
 import java.util.Scanner;
-import sun.text.normalizer.NormalizerImpl;
 
 /**
  *

@@ -66,7 +66,7 @@ public class MergeSort {
     public static void main(String[] args) {
         MergeSort mergeSort = new MergeSort();
         int arr[] = {1, 6, 4, 9, 3, 7, 2, 5, 8, 0};
-        mergeSort.sort(arr, 0, 9);
+        mergeSort.sort(arr, 0, arr.length - 1);
         for (int i : arr) {
             System.out.print(i + " ");
         }
