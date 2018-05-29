@@ -15,7 +15,7 @@ import java.util.TreeSet;
  *
  * @author Sanatt Abrol
  * GFG problem https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0
- * Time complexity O(n2logn)
+ * Time complexity O((n*n)logn)
  */
 public class Sort8 {
 
