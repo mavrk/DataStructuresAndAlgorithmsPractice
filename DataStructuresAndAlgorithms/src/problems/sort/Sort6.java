@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package problems;
+package problems.sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -17,6 +17,7 @@ import java.util.Scanner;
  *
  * @author Sanatt Abrol GFG problem
  * https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0
+ * O(nlogn)
  */
 public class Sort6 {
 

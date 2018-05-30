@@ -11,3 +11,7 @@ Sort5   https://practice.geeksforgeeks.org/problems/inversion-of-array/0
 Sort6   https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0
 Sort7   https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
 Sort8   https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0
+Sort9   https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0
+Sort10  https://www.geeksforgeeks.org/rearrange-array-maximum-minimum-form-set-2-o1-extra-space/
+Sort11  https://www.geeksforgeeks.org/longest-common-prefix-set-6-sorting/
+Sort12  https://www.geeksforgeeks.org/maximum-product-subsequence-size-k/

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package problems;
+package problems.sort;
 
 import com.sun.xml.internal.ws.binding.FeatureListUtil;
 import java.util.ArrayList;
@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-import problems.Sort8.Pair;
+import problems.sort.Sort8.Pair;
 
 /**
  *
