@@ -44,7 +44,6 @@ public class Sort5 {
             }
             else{
                 arr[k++] = R[j++];
-                System.out.println("boom");
                 inv += nL-i;
             }
         }
