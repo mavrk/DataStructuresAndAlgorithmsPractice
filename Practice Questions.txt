@@ -21,4 +21,5 @@ Questions on ARRAYS
 Array1 	https://practice.geeksforgeeks.org/problems/rotate-and-delete/0
 Array2  https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/
 Array3  https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0
-Array4   https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0
+Array4  https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0
+Array5  https://practice.geeksforgeeks.org/problems/maximum-sub-array/0
