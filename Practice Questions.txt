@@ -23,3 +23,8 @@ Array2  https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/
 Array3  https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0
 Array4  https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0
 Array5  https://practice.geeksforgeeks.org/problems/maximum-sub-array/0
+Array6  https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-represented-as-arrays/0
+
+Questions on BINARY-TREES
+-------------------------
+BTree1	https://www.geeksforgeeks.org/perfect-binary-tree-specific-level-order-traversal-set-2/
