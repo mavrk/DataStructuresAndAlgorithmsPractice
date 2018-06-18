@@ -28,3 +28,14 @@ Array6  https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-represent
 Questions on BINARY-TREES
 -------------------------
 BTree1	https://www.geeksforgeeks.org/perfect-binary-tree-specific-level-order-traversal-set-2/
+BTree2  https://www.geeksforgeeks.org/diameter-of-a-binary-tree-in-on-a-new-method/
+BTree3  https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1
+Btree5  https://practice.geeksforgeeks.org/problems/preorder-traversal-and-bst/0
+BTree7	https://practice.geeksforgeeks.org/problems/extreme-nodes-in-alternate-order/1
+BTree6  https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+
+Questions on HEAPS
+------------------
+Heap1	https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1
+Heap2	https://practice.geeksforgeeks.org/problems/rearrange-characters/0
+Heap3   https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0

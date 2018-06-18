@@ -8,6 +8,17 @@ https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/
 https://www.geeksforgeeks.org/k-th-smallest-absolute-difference-two-elements-array/
 https://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/
 
+*-*
+https://practice.geeksforgeeks.org/problems/node-at-distance/1
+https://practice.geeksforgeeks.org/problems/construct-tree-1/1
+https://practice.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1
+https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0
+https://practice.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1
+https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1
+https://practice.geeksforgeeks.org/problems/make-binary-tree/1
+https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-parent-array/1
+https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1
+https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0
 
 Interview Prep To Do List
 -------------------------
