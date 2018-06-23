@@ -1,24 +1,16 @@
 Coding To Do List
 -----------------
 
-Heap Sort, Radix Sort
+Radix Sort
 https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
-https://www.geeksforgeeks.org/median-of-stream-of-running-integers-using-stl/
 https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/
 https://www.geeksforgeeks.org/k-th-smallest-absolute-difference-two-elements-array/
-https://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/
 
-*-*
-https://practice.geeksforgeeks.org/problems/node-at-distance/1
-https://practice.geeksforgeeks.org/problems/construct-tree-1/1
-https://practice.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1
-https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0
-https://practice.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1
-https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1
-https://practice.geeksforgeeks.org/problems/make-binary-tree/1
-https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-parent-array/1
-https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1
-https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0
+https://www.geeksforgeeks.org/find-a-mother-vertex-in-a-graph/
+https://www.geeksforgeeks.org/strongly-connected-components/
+
+https://practice.geeksforgeeks.org/problems/two-water-jug-problem/0
+https://practice.geeksforgeeks.org/problems/possible-paths/0/?ref=self
 
 Interview Prep To Do List
 -------------------------

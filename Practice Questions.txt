@@ -33,9 +33,18 @@ BTree3  https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-
 Btree5  https://practice.geeksforgeeks.org/problems/preorder-traversal-and-bst/0
 BTree7	https://practice.geeksforgeeks.org/problems/extreme-nodes-in-alternate-order/1
 BTree6  https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+BTree8  https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1
+BTree8  
 
 Questions on HEAPS
 ------------------
 Heap1	https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1
 Heap2	https://practice.geeksforgeeks.org/problems/rearrange-characters/0
 Heap3   https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0
+Heap4	https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0
+
+Questions on GRAPHS
+-------------------
+Graph3	https://www.geeksforgeeks.org/count-possible-paths-two-vertices/
+Graph4  https://www.geeksforgeeks.org/path-rectangle-containing-circles/
+Graph5  https://www.geeksforgeeks.org/height-generic-tree-parent-array/
